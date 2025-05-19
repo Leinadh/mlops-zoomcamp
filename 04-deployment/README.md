@@ -34,6 +34,7 @@
   <img src="images/thumbnail-4-04.jpg">
 </a>
 
+Note: Since some of the steps in this video requires the use of AWS services which incur some cost on the user, it is optional to code along to this video. However, as material in Module 6 is based on the content of this video, we still highly recommended that you watch it.
 
 [See code here](streaming/)
 
@@ -48,19 +49,18 @@
 [See code here](batch/)
 
 
-## 4.6 Batch: TBA
+## 4.6 MLOps Zoomcamp 4.6 - Batch scoring with Mage
 
-COMING SOON
+No video - you already know how to do it:
+
+* Connect to MLFlow
+* Create a transformation block
+* Get the model from the registry, apply it
 
 
-## 4.7 Choosing the right way of deployment
+## Homework
 
-COMING SOON
-
-
-## 4.8 Homework
-
-More information here: [homework.md](homework.md)
+More information [here](../cohorts/2024/04-deployment/homework.md).
 
 
 ## Notes
@@ -68,4 +68,10 @@ More information here: [homework.md](homework.md)
 Did you take notes? Add them here:
 
 * [Notes on model deployment (+ creating a modeling package) by Ron M.](https://particle1331.github.io/inefficient-networks/notebooks/mlops/04-deployment/notes.html)
+* [Notes on Model Deployment using Google Cloud Platform, by M. Ayoub C.](https://gist.github.com/Qfl3x/de2a9b98a370749a4b17a4c94ef46185)
+* [Week4: Notes on Model Deployment by Bhagabat](https://github.com/BPrasad123/MLOps_Zoomcamp/tree/main/Week4)
+* [Week 4: Deployment notes by Ayoub.B](https://github.com/ayoub-berdeddouch/mlops-journey/blob/main/deployment-04.md)
+* [Week 4: Deployment notes by Waleed](https://github.com/waleedayoub/mlops-zoomcamp/blob/main/cohorts/2023/04-deployment/module4notes.waleed.md)
+* [Week4: Deployment: Offline (Batch), Online (Web service /w MLflow, Streaming) by Hongfan (Amber)](https://github.com/Muhongfan/MLops/blob/main/04-deployment/README.md)
+* [Week 4: Deployment Notes - Marcus](https://github.com/mleiwe/mlops-zoomcamp/blob/NotesBranch/cohorts/2024/04-deployment/Ch4_Notes_ML.md)
 * Send a PR, add your notes above this line
